@@ -1,0 +1,19 @@
+{
+    "name": "offsetKitty",
+    "main": ["jquery.offsetKitty.js"],
+    "version": "1.0.0",
+    "homepage": "https://github.com/jcjmcclean/jquery.offsetKitty",
+    "authors": [
+        "James McClean <james@jamesmcclean.com>"
+    ],
+    "description": "Meow! offsetKitty yo",
+    "keywords": [
+        "viewport",
+        "scroll",
+        "jquery"
+    ],
+    "license": "GNU",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
